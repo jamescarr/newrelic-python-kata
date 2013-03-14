@@ -15,4 +15,4 @@ build
 *.db
 
 # Logs:
-*.log
+*.log.vagrant

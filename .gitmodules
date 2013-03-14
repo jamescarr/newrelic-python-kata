@@ -1,0 +1,9 @@
+[submodule "puppet/modules/newrelic"]
+	path = puppet/modules/newrelic
+	url = git://github.com/joemiller/puppet-newrelic.git
+[submodule "puppet/modules/python"]
+	path = puppet/modules/python
+	url = git://github.com/stankevich/puppet-python.git
+[submodule "puppet/modules/supervisor"]
+	path = puppet/modules/supervisor
+	url = git://github.com/plathrop/puppet-module-supervisor.git
