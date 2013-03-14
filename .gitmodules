@@ -7,3 +7,6 @@
 [submodule "puppet/modules/supervisor"]
 	path = puppet/modules/supervisor
 	url = git://github.com/plathrop/puppet-module-supervisor.git
+[submodule "puppet/modules/newrelic_python"]
+	path = puppet/modules/newrelic_python
+	url = git@github.com:jamescarr/puppet-newrelic-python.git
